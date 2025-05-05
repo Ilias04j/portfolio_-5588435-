@@ -1,16 +1,13 @@
 # portfolio_5588435
 
-A new Flutter project.
+## Projektbeschreibung
+Dies ist eine einfache Portfolio-App, erstellt im Rahmen des Praktikums.  
+Die App zeigt eine Startseite mit der Begrüßung „Willkommen im Portfolio von Ilias Jelloli“.
 
-## Getting Started
+## Flutter-Version
+- Flutter 3.29.3
 
-This project is a starting point for a Flutter application.
+## Git-Branching-Strategie
+Für die Entwicklung der Startseite wurde der Branch 'feature/startseite' erstellt.
+Auf diesem Branch wurden Änderungen umgesetzt, wodurch der Hauptbranch 'main' sauber bleibt, also fehlerfei.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
