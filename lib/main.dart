@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/home_page.dart'; // <-- Deine eigene Seite wird importiert
+import 'pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Mein Portfolio',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const HomePage(), // <-- Deine eigene Startseite wird gesetzt
+      home: const HomePage(),
     );
   }
 }
